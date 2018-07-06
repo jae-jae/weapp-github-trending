@@ -13,7 +13,7 @@
 - Webpack、Babel: 打包构建
 - ES6: JS语法
 - LESS：CSS 预处理语言
-- Github Api、QueryList: 提供数据支持
+- GitHub API、QueryList: 提供数据支持
 
 ## 体验
 ![](https://raw.githubusercontent.com/jae-jae/_resources/master/img/20180706182818.jpg)
