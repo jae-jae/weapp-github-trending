@@ -20,7 +20,7 @@
 
 ## 截图
 
-<img src="https://raw.githubusercontent.com/jae-jae/_resources/master/img/20180706182338.jpg" width="300px" /> <img src="https://raw.githubusercontent.com/jae-jae/_resources/master/img/20180706183228.jpg" width="300px" /> <img src="https://raw.githubusercontent.com/jae-jae/_resources/master/img/20180706182338.jpg" width="300px" /> <img src="https://raw.githubusercontent.com/jae-jae/_resources/master/img/20180706181801.gif" width="300px" />
+<img src="https://raw.githubusercontent.com/jae-jae/_resources/master/img/20180706182338.jpg" width="300px" /> <img src="https://raw.githubusercontent.com/jae-jae/_resources/master/img/20180706183228.jpg" width="300px" /> <img src="https://raw.githubusercontent.com/jae-jae/_resources/master/img/20180706183327.jpg" width="300px" /> <img src="https://raw.githubusercontent.com/jae-jae/_resources/master/img/20180706181801.gif" width="300px" />
 
 
 
